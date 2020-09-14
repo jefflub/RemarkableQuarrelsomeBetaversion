@@ -14,3 +14,7 @@ end
 get '/test' do
   'Goodbye cruel world!'
 end
+
+get '/another_test' do
+  'Another test'
+end
